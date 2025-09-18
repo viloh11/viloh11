@@ -1,19 +1,21 @@
 # 👋 Hi, I'm Vincenzo Longo  
 
+![Profile views](https://komarev.com/ghpvc/?username=vincenzolongo&label=Profile%20views&color=0e75b6&style=flat)
+
 Full Stack Developer passionate about technology and innovation.  
 I specialize in building **modern applications** using **Angular** and **Laravel**, delivering robust backends and engaging frontends with a focus on performance and user experience.  
 
 ---
 
-###  Connect with me
+### 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincenzo-longo-5b8a9b27b)
 
 ---
 
-###  About Me
--  Currently working on: modern web applications with **Angular** and **Laravel**  
--  Learning: advanced full stack development practices and modern frameworks  
--  Passionate about: clean code, scalable architectures, and continuous learning  
+### 📌 About Me
+- Currently working on: modern web applications with **Angular** and **Laravel**  
+- Learning: advanced full stack development practices and modern frameworks  
+- Passionate about: clean code, scalable architectures, and continuous learning  
 
 ---
 
