@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Vincenzo Longo  
 
-<!--
-**viloh11/viloh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer passionate about technology and innovation.  
+I love building complete solutions, from backend to frontend, with a focus on clean code and great user experience.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincenzo-longo-5b8a9b27b)
+
+---
+
+### 🚀 About Me
+- 🔭 Currently working on: web projects and full stack applications  
+- 🌱 Learning: modern web development technologies  
+- 💡 Passionate about: learning, sharing knowledge, and developing innovative ideas  
+
+---
+
+### ⚡ Inspirational GIF
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+
+---
+
+### 👀 Profile Views
+![Profile views](https://komarev.com/ghpvc/?username=Vincenzo-Longo&color=blue)
