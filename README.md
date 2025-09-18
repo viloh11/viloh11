@@ -18,7 +18,7 @@ I specialize in building **modern applications** using **Angular** and **Laravel
 ---
 
 ### ⚙️ Techy GIF Suggestion
-<img src="https://media.giphy.com/media/3o7aD4AJykX31JxUry/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHpyM205dm5qcTN4Y2VvbjhhbHIzaTlrd2lnemloZTJtN283ZXoxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" width="500"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fl%3Dbrazilian%26id%3D2258162530&psig=AOvVaw2tQyWncW5wlc6txMqSUUkR&ust=1758297614945000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDn05jX4o8DFQAAAAAdAAAAABAE" width="500"/>
 
 ---
 
