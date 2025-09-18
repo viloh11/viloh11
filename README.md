@@ -1,19 +1,19 @@
 # 👋 Hi, I'm Vincenzo Longo  
 
-💻 Full Stack Developer passionate about technology and innovation.  
+Full Stack Developer passionate about technology and innovation.  
 I specialize in building **modern applications** using **Angular** and **Laravel**, delivering robust backends and engaging frontends with a focus on performance and user experience.  
 
 ---
 
-### 🔗 Connect with me
+###  Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincenzo-longo-5b8a9b27b)
 
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on: modern web applications with **Angular** and **Laravel**  
-- 🌱 Learning: advanced full stack development practices and modern frameworks  
-- 💡 Passionate about: clean code, scalable architectures, and continuous learning  
+-  Currently working on: modern web applications with **Angular** and **Laravel**  
+-  Learning: advanced full stack development practices and modern frameworks  
+-  Passionate about: clean code, scalable architectures, and continuous learning  
 
 ---
 
@@ -21,7 +21,7 @@ I specialize in building **modern applications** using **Angular** and **Laravel
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️Tech Stack
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
