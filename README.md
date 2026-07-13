@@ -1,34 +1,34 @@
-# 👋 Hi, I'm Vincenzo Longo  
+# 👋 Hi, I'm Vincenzo Longo
 
-![Profile views](https://komarev.com/ghpvc/?username=vincenzolongo&label=Profile%20views&color=0e75b6&style=flat)
+**Junior Full-Stack Developer** — building and shipping web applications in
+production with **Angular** and **Laravel**.
 
-Full Stack Developer passionate about technology and innovation.  
-I specialize in building **modern applications** using **Angular** and **Laravel**, delivering robust backends and engaging frontends with a focus on performance and user experience.  
+I work across the whole lifecycle of a feature: frontend, backend, database
+design and deployment — including Docker-based infrastructure, Linux VPS
+configuration and CI/CD pipelines. Lately I've been integrating **Large
+Language Models** and third-party APIs to automate internal business processes.
 
----
+### 🔧 Tech Stack
 
-### 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincenzo-longo-5b8a9b27b)
-
----
-
-### 📌 About Me
-- Currently working on: modern web applications with **Angular** and **Laravel**  
-- Learning: advanced full stack development practices and modern frameworks  
-- Passionate about: clean code, scalable architectures, and continuous learning  
-
----
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJseXhocXFiNGo1eDlrb2FvcXo1NjIxOXhlaWxuM2JhYThlZDMxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" width="500"/>
-
----
-
-### Tech Stack
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+### 📌 Currently
+
+- 💼 Software Developer at **Eulogic NT** (since Oct 2024) — Angular/Laravel in production
+- 🐳 Managing dev & production infrastructure: Docker, Traefik, Linux VPS
+- 🤖 Exploring LLM integrations in real-world business workflows
+
+### 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincenzo-longo-dev/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vincenzolong28@gmail.com)
