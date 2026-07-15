@@ -28,7 +28,7 @@ self-hosted open-source services (OpenCATS, Snipe-IT) used daily by internal tea
 
 - 💼 Software Developer at **Eulogic NT** (since Oct 2024) — Angular/Laravel in production
 - 🐳 Managing dev & production infrastructure: Docker, Traefik, Linux VPS
-- 🤖 Exploring LLM integrations in real-world business workflows
+- 🛠️ Running self-hosted open-source services (OpenCATS, Snipe-IT) for internal teams
 
 ### 🌐 Connect
 
