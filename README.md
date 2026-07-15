@@ -5,8 +5,10 @@ production with **Angular** and **Laravel**.
 
 I work across the whole lifecycle of a feature: frontend, backend, database
 design and deployment — including Docker-based infrastructure, Linux VPS
-configuration and CI/CD pipelines. Lately I've been integrating **Large
-Language Models** and third-party APIs to automate internal business processes.
+configuration and CI/CD pipelines. I work across the whole lifecycle of a feature: frontend, backend, database
+design and deployment — including Docker-based infrastructure, Linux VPS
+configuration and CI/CD pipelines with GitHub Actions. I also run and maintain
+self-hosted open-source services (OpenCATS, Snipe-IT) used daily by internal teams.
 
 ### 🔧 Tech Stack
 
